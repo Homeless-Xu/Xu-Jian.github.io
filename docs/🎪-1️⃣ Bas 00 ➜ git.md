@@ -1,11 +1,10 @@
 ---
 sidebar_position: 110
+title: 🎪-1️⃣ Basic ➜ Git
 ---
 
 
-# 🎪-1️⃣ Bas 00 ➜ git
-
-
+# Git ✶ Basic
 
 
 🔵 Basic git work flow
@@ -15,8 +14,6 @@ sidebar_position: 110
   add some file    ➜  git add .           ➜  add all changed file. 
   commit some      ➜  git commit -m 'xxx' ➜  must commit before push 
   push   some      ➜  git push xxxx
-
-
 
 
 
