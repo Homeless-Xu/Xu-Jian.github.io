@@ -1,8 +1,4 @@
----
-title: 🎪-🦚
----
-
-# HomeLAB Build Doc
+# 🎪 HomeLAB Build Doc 🎪
 
 
 🔵 Hardware 
