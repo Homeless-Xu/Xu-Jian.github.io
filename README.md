@@ -1,6 +1,10 @@
 # 🎪 HomeLAB Build Doc 🎪
 
 
+Blog Link:  https://mirandaxx.github.io
+
+
+
 🔵 Hardware 
 
     xxxx.x    Starlink
