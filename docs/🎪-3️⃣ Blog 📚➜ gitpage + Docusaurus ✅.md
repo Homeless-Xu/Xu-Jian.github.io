@@ -1,9 +1,9 @@
 ---
-sidebar_position: 1
-slug: / 
+sidebar_position: 113
 ---
 
-# 🎪-0️⃣ Structure
+
+# 🎪-3️⃣ Blog 📚➜ gitpage + Docusaurus ✅.md
 
 
 🔵 Hardware 
@@ -35,12 +35,11 @@ slug: /
 
     ✅ VPN:            Wireguard + Netmaker
     ✅ DNS:            AdGuard 
-    ✅ Proxy:          Traefik
+    ✅ Reverse Proxy:  Traefik
     🚫 VXLAN:          NSXT      (use too much cpu ram)
 
 
-🔵 VPN
-
+🔵 VPN ✅
     vps.s 1214.214
 
     ros.c 1214.011
@@ -72,40 +71,57 @@ slug: /
 
 
 
-🔵 IP Tables
+🔵 IP
 
-    xxxx.001 ★ Firewall  
+001 ★ Firewall  
+011 ★ RB4011
+022 ★ CRS328
+013 ★ AP
 
-    xxxx.011 ★ RB4011
-    xxxx.012 ✩ CHR   
-    xxxx.022 ★ CRS328
-    1111.013 ★ AP
-
-    xxxx.088 ★ NAS.HW
-    xxxx.089 ✩ NAS.VM
-
-    1720.070 ✩ CEPH.S
-    1720.077 ✩ CEPH.C
-
-    1720.080 ✩ K8s.S
-    1720.083 ✩ K8s.C
-
-    1721.033 ✩ K3s.S.MGR
-    1721.144 ✩ K3s.C.DKT
-    1214.214 ★ K3s.C.VPS
+088 ★ NAS
+089 ✩ NAS
 
 
-    1111.099 ★ iMAC
-    0099.111 ✩ Win7-Canmera 
-    1721.123 ✩ HomeAssist
+099 ★ iMAC
 
 
+070 ✩ CEPH-S
+077 ✩ CEPH-C
+
+1720.080 K8s-S
+1720.083 K8s-C 
+1721.033 K3s 
+
+
+
+111 ✩ Win7-Canmera 
+123 ✩ HomeAssist
+
+140 ✩ Docker_Prod
+144 ✩ Docker_Test 
+
+012 ✩ Ros-CHR       ???  nsx?
+
+
+
+
+
+
+
+☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️☸️  K8s 
+
+K8s.M  172.16.0.80 
+K8s.C  172.16.0.83 
+
+
+K3s.MGR  172.16.1.33
+K3s.DKT  172.16.1.144
+K3s.VPS  10.214.214.214
 
 
 
 
 📀📀📀📀📀📀📀📀📀📀📀📀📀📀📀📀📀📀📀📀📀📀📀📀 🦚 STO
-
     ✅NAS:   Synology
     ✅S3:    MinIO 
     ✅RBD:   Ceph
