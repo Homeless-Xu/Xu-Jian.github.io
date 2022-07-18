@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3930
-title: 🎪🎪🎪-1️⃣🛢 Postgres
+title: 🎪🎪🎪-1️⃣🛢 DB ➜ Postgres
 ---
 
 # Postgres

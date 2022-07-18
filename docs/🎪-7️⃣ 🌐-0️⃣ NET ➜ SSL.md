@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1701
-title: 🎪-7️⃣ NET 🌐-0️⃣ SSL ➜ Apply & Use
+title: 🎪-7️⃣🌐-0️⃣ SSL ➜ Apply & Use
 ---
 
 

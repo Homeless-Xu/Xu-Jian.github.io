@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3930
-title: 🎪🎪🎪-1️⃣🛢 Redis
+title: 🎪🎪🎪-1️⃣🛢 DB ➜ Redis
 ---
 
 # Redis

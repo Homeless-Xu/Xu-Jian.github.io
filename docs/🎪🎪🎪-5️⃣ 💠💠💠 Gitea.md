@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3930
-title: 🎪🎪🎪-5️⃣💠⭐️⭐️ ➜ Gittea
+title: 🎪🎪🎪-5️⃣💠💠💠 ➜ Gittea
 ---
 
 # Gittea

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 130
-title: 🎪-3️⃣ Blog 📚➜ Docusaurus
+title: 🎪-3️⃣📚 Blog ➜ Docusaurus
 ---
 
 # Blog Build

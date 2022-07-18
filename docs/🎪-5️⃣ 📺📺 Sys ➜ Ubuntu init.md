@@ -1,6 +1,6 @@
 ---
 sidebar_position: 150
-title: 🎪-5️⃣ SYS 📺📺 Ubuntu init
+title: 🎪-5️⃣📺📺 Ubuntu ➜ init
 ---
 
 # Ubuntu Basic Config

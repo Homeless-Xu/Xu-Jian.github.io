@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1930
-title: 🎪-9️⃣ STO 📀📀📀 CEPH ➜➜ Use
+title: 🎪-9️⃣📀📀📀 CEPH ➜➜ Use
 ---
 
 # # Storage ✶ CEPH ➜ Use

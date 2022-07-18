@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1718
-title: 🎪-7️⃣ NET 🌐-7️⃣ VPN ➜➜ Wireguard
+title: 🎪-7️⃣🌐-7️⃣ VPN ➜➜ Wireguard
 ---
 
 # VPN ✶ Wireguard

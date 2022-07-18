@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1730
-title: 🎪-7️⃣ NET 🌐🌐🌐 VXLAN ➜ NSXT - AIO
+title: 🎪-7️⃣🌐🌐🌐 VXLAN ➜ NSXT - AIO
 ---
 
 # vSphere ✶ NSXT

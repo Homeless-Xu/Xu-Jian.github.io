@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3930
-title: 🎪🎪🎪-5️⃣💠⭐️ ➜ HomeAssist
+title: 🎪🎪🎪-5️⃣💠💠 ➜ HomeAssist
 ---
 
 # HomeAssist

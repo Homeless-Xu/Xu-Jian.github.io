@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1720
-title: 🎪-7️⃣ NET 🌐🌐-0️⃣ Proxy ➜ Teaefik
+title: 🎪-7️⃣🌐🌐 Proxy ➜ Teaefik
 ---
 
 

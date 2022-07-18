@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1717
-title: 🎪-7️⃣ NET 🌐-7️⃣ VPN ➜ Choose
+title: 🎪-7️⃣🌐-7️⃣ VPN ➜ Choose
 ---
 
 

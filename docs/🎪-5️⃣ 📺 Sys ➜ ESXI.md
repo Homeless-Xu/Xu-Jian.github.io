@@ -1,6 +1,6 @@
 ---
 sidebar_position: 150
-title: 🎪-5️⃣ SYS 📺 ESXI ➜ Custom IMG
+title: 🎪-5️⃣📺 SYS ESXI ➜ Custom IMG
 ---
 
 # Custom IMG Driver 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3930
-title: 🎪🎪🎪-5️⃣💠⭐️⭐️ ➜ NetData
+title: 🎪🎪🎪-5️⃣💠💠💠 ➜ NetData
 ---
 
 # Moniter ▪  NetData 

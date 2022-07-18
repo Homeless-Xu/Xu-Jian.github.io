@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1910
-title: 🎪-9️⃣ STO 📀 NAS ➜➜ Cloud Driver
+title: 🎪-9️⃣📀 STO NAS ➜➜ Cloud Driver
 ---
 
 # NAS ✶ Cloud ➜ Alist

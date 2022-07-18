@@ -1,6 +1,6 @@
 ---
 sidebar_position: 110
-title: 🎪-1️⃣ Basic ➜ Git
+title: 🎪-1️⃣🧠 Basic ➜ Git
 ---
 
 

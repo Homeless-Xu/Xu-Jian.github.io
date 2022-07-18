@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1703
-title: 🎪-7️⃣ NET 🌐-3️⃣ DNS ➜ AdGuard
+title: 🎪-7️⃣🌐-3️⃣ DNS ➜ AdGuard
 ---
 
 

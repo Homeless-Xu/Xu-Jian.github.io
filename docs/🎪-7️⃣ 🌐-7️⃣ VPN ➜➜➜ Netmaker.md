@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1719
-title: 🎪-7️⃣ NET 🌐-7️⃣ VPN ➜➜➜ Netmaker
+title: 🎪-7️⃣🌐-7️⃣ VPN ➜➜➜ Netmaker
 ---
 
 

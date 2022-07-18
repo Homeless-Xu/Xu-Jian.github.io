@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1930
-title: 🎪-9️⃣ STO 📀📀📀 CEPH ➜ Build
+title: 🎪-9️⃣📀📀📀 CEPH ➜ Build
 ---
 
 # Storage ✶ CEPH ➜ Build

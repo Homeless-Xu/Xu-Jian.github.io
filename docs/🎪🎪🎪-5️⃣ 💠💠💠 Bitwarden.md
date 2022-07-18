@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3930
-title: 🎪🎪🎪-5️⃣💠⭐️⭐️ ➜ Bitwarden
+title: 🎪🎪🎪-5️⃣💠💠💠 ➜ Bitwarden
 ---
 
 # Password Manager 

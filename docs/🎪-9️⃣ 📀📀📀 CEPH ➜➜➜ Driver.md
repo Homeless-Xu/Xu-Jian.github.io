@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1930
-title: 🎪-9️⃣ STO 📀📀📀 CEPH ➜➜➜ Driver
+title: 🎪-9️⃣📀📀📀 CEPH ➜➜➜ Driver
 ---
 
 # K8s ✶ Install Ceph-CSI Driver

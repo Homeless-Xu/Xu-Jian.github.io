@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1920
-title: 🎪-9️⃣ STO 📀📀 S3 ➜ MinIO
+title: 🎪-9️⃣📀📀 S3 ➜ MinIO
 ---
 
 # Storage ✶ S3 ➜ MinIO

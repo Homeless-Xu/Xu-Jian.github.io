@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1910
-title: 🎪-9️⃣ STO 📀 NAS ➜ DSM7
+title: 🎪-9️⃣📀 STO NAS ➜ DSM7
 ---
 
 
