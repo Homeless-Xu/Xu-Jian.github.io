@@ -66,12 +66,3 @@ title: 🎪🎪🎪-1️⃣🛢 DB ➜ Redis
                 sudo chown 1001 /mnt/dpnvme/DMGS-DKP/DB-Redis
 
 
-
-
-
-
-🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 redis CMD 
-
-no need database like mysql.
-
-

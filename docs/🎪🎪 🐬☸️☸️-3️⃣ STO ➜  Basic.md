@@ -9,48 +9,7 @@ title: 🎪🎪🐬☸️☸️3️⃣ STO ➜ Basic
 
 
 
-
-
-🔵 K8s Storage
-
-    local    emptyDir   ➜                          ➜ pod del, data del 
-    local    hostPath   ➜  mount local  volume.    ➜ pod del, data keep.
-
-    nas      nfs        ➜  mount remote volume     ➜ pod del, data keep.     ➜ host down, data keep.
-    nas      iscsi      ➜  mount remote volume     ➜ pod del, data keep.     ➜ host down, data keep.
-    nas      rbd        ➜  mount remote volume     ➜ pod del, data keep.     ➜ host down, data keep.
-    .... 
-
-
-    k8s support a lot storage type.
-      but ! every type of storage need different config!  not easy for use & config
-        so  bset choose is use pv: persisentvolume
-
-
-
-🔵 PV & PVC Desc ✅
-
-    Pod (volume) 
-        >> PVC                      ➜  docker user config  
-            >> PV                   ➜  storage manager config
-                >> RealStorage      ➜  ceph cluster
-
-
-    PV:   Persistent Volume          ➜  like physical disk 
-    PVC:  Persistent Volume Claim    ➜  choose which disk/pv  .  and decide the size of disk.
-
-    PV:   Provide  Storage           ➜  config pv   is  it admin`s     job
-    PVC:  Use      Storage           ➜  config pvc  is  docker user`s  job 
-
-
-    PV can cofing on all type of storage.
-      pv is just like a hard disk to user. 
-        user just need config pvc (how to use disk. need how big & etc...)
-        user konw nothing about your real storage. 
-            user shoud not know this for security. and no need to know this.
-
-
-          
+ 
 🔵 StorageClass / Driver / Plugin
 
   🔶 WHY 
@@ -473,5 +432,8 @@ title: 🎪🎪🐬☸️☸️3️⃣ STO ➜ Basic
 
     but. how to create folder. in pvc? 
     how my k8s node can visit pvc folder. 
+
+
+
 
 

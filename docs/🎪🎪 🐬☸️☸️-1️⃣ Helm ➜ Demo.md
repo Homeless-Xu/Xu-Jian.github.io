@@ -6,50 +6,6 @@ title: 🎪🎪🐬☸️☸️1️⃣ Helm ➜ Demo
 # Helm Demo
 
 
-🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 Helm. demo. nginx 
-
-🔵 search app
-
-    https://artifacthub.io/packages/search?kind=0&sort=relevance&page=1
-        https://artifacthub.io/packages/helm/bitnami/nginx
-
-
-🔵 install 
-
-    helm repo add bitnami https://charts.bitnami.com/bitnami
-    helm install nginx-k3s bitnami/nginx
-
-        Error: INSTALLATION FAILED: Kubernetes cluster unreachable: Get "http://localhost:8080/version": dial tcp 127.0.0.1:8080: connect: connection refused
-
-            🔥 if use helm in k3s           export KUBECONFIG=/etc/rancher/k3s/k3s.yaml
-            🔥 if use helm in k3s           export KUBECONFIG=/etc/rancher/k3s/k3s.yaml
-                if need forever. all this to .zhsrc 
-                then restart zsh.
-
-
-🔵 visit
-
-    🔶 check port 
-
-        lens >> network >> services >> ..
-        kubectl get svc --namespace default -w name
-        kubectl get svc --namespace default -w nginx-k3s
-
-
-    🔶 config firewall 
-
-        ufw allow from 10.111.111.0/24 
-
-
-    🔶 visit nginx
-
-        http://172.16.1.33:32674
-
-
-
-
-
-
 
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
@@ -200,27 +156,6 @@ title: 🎪🎪🐬☸️☸️1️⃣ Helm ➜ Demo
 
 
 
-
-🔵 helm app Structure  
-
-    every helm app are same structure 
-
-    helm-app
-        templates 
-        chart.yaml 
-        ...
-        value.yaml   # 🔥 app`s default config value 
-
-
-
-🔵 Helm app value: values.yaml 
-
-    values.yaml  can overwrite template`s defaule value.
-
-    you can set values at:  helm install / helm upgrade. 
-    you can set values use: values.yaml 
-
-
 🔵 Helm APP Custom 
 
     almost all app need some config. 
@@ -326,14 +261,4 @@ title: 🎪🎪🐬☸️☸️1️⃣ Helm ➜ Demo
     and run app use your own value.yaml.
     all value you can use in docker cmd.
     you can set them into value.yaml 
-
-
-
-    🔶 value.yaml 
-
-
-
-
-
-
 

@@ -113,39 +113,12 @@ title: 🎪🎪🐬☸️☸️0️⃣ K8s ➜ Misc.9
 
 
 
-🔵 service 
-
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 ConfigMap 
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 ConfigMap 
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 ConfigMap 
 
-🔵 why 
-
-    docker          ➜ cmd line.
-    docker compose  ➜ docker-compose.yaml 
-    k8s             ➜ ConfigMap
 
 
-🔵 Desc 
-
-    docker config  need prepair before start container.
-    k8s  configmap need prepair before start pod
-
-
-    all config you need mount in docker;   you can add to configmap.
-
-    configmap is a folder. 
-        you can let one  pod use one  configmap file.
-        you can let many pod use same configmap file. 
-
-
-    pod will search all configmap file. 
-    if found something for himself. pod will auto use it. (no need restart!)
-
-
-    usually 
-        if a pod need very much   config.    create a configmap file for it. 
-        if a pod need very little config .   use same configmap file with other pod.
 
 
 
